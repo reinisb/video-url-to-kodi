@@ -1,2 +1,2 @@
 # video-url-to-kodi
-Send video URL to Kodi for instant playback.
+Send video URLs from your browser to Kodi for instant playback.
